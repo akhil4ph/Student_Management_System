@@ -11,7 +11,7 @@ public class DBConnection {
 
         String url = "jdbc:mysql://localhost:3306/SMSDB";
         String user = "root";
-        String password = "@Wzkejy69ts";
+        String password = "@Wzkeaknn";
         try{
             // Connection connection = DriverManager.getConnection(url, user, password);
             connection = DriverManager.getConnection(url, user, password);
